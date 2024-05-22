@@ -13,7 +13,9 @@ import java.util.stream.IntStream;
 
 public class BenchmarkMain {
     public static void main(String[] args) throws IOException {
+        System.out.println("vczxvzxc");
         Main.main(args);
+        System.out.println("vczxvzxc");
     }
 
     @Benchmark
