@@ -15,7 +15,7 @@ public class BenchmarkMain {
     public static void main(String[] args) throws IOException {
         System.out.println("qq");
         Main.main(args);
-        System.out.println("qq1");
+        System.out.println("vczxvzxc");
     }
 
     @Benchmark
